@@ -3,8 +3,7 @@ CLAAT Preview Link: https://codelabs-preview.appspot.com/?file_id=16_qjTsxV4dfyP
 CLAAT Document Link: https://docs.google.com/document/d/16_qjTsxV4dfyPo2Ni60gBfFIXtjn0Sk-IKDV99dqyTg/edit
 
 
-## Part2
-### Attribution Modeling
+## Part2 - Attribution Modeling
 Attribution modeling is a framework for analyzing which touchpoints, or marketing channels, receive credit for a conversion. Each attribution model distributes the value of a conversion across each touchpoint differently. A model comparison tool allows you to analyze how each model distributes the value of a conversion. There are six common attribution models: First Interaction, Last Interaction, Last Non-Direct Click, Linear, Time-Decay, and Position-Based.
 
 ![image](https://user-images.githubusercontent.com/33648410/106234377-ba2f1a00-61c6-11eb-8060-dba70fe2e64b.png)
@@ -30,10 +29,20 @@ The models are:
 3. Linear Attribution Model
 4. U-Shaped Attribution Model
 
-
-
 ## Data
 
 We have to use the Criteo Attribution Bidding Dataset and build Attribution models to optimize the Budget Allocation for various Marketing campaigns.
 
 This dataset represents a sample of 30 days of Criteo live traffic data. Each line corresponds to one impression (a banner) that was displayed to a user. For each banner we have detailed information about the context, if it was clicked, if it led to a conversion and if it led to a conversion that was attributed to Criteo or not.
+
+## Voila Dashboard:
+Voilà allows you to convert a Jupyter Notebook into an interactive dashboard that allows you to share your work with others. It is secure and customizable, giving you control over what your readers experience.
+Voilà turns Jupyter notebooks into standalone applications. Use these examples for inspiration when creating your own dashboard applications.
+
+![1](https://user-images.githubusercontent.com/33648410/106235290-70473380-61c8-11eb-8511-95f897ac69b8.png)
+
+![image](https://user-images.githubusercontent.com/33648410/106235498-c7e59f00-61c8-11eb-9609-d44f47bb7df5.png)
+
+![image](https://user-images.githubusercontent.com/33648410/106235561-ea77b800-61c8-11eb-8f44-6819d0e7f028.png)
+
+![image](https://user-images.githubusercontent.com/33648410/106235598-febbb500-61c8-11eb-92b2-49dcb50cf1bf.png)
